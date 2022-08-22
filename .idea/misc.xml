@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/activity_another_user_profile.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/activity_image_view.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/activity_login.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/activity_main.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/activity_post.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/activity_search.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/activity_sign_up.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/activity_user_profile.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/content_main.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/navigation_header.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/single_row_main.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/layout/single_row_search.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/menu/menu.xml" value="0.19453125" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/menu/menu_main.xml" value="0.2129115006412997" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/menu/menu_search_activity.xml" value="0.259375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Friendster/app/src/main/res/menu/navigation_drawer.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
